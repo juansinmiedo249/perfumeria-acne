@@ -11,3 +11,4 @@
 * Gestion de ramas
 * Deshacer cambios
 * Borrado cambios
+* restaurar cambios
