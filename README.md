@@ -13,3 +13,6 @@
 * Borrado cambios
 * restaurar cambios
 * resolver conflictos
+* trabajo colaborativo
+* Test
+* Fin GIT
