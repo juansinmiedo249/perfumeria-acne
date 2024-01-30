@@ -12,3 +12,4 @@
 * Deshacer cambios
 * Borrado cambios
 * restaurar cambios
+* resolver conflictos
